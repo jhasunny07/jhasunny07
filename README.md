@@ -32,10 +32,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Frontend Developer"
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Frontend Developer",
   ]
   
 currently_learning: ["MongoDb, Express, Node.Js, Angular, and React"]
