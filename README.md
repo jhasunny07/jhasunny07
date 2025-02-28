@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sunny%20Jha&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Sunny%20Jha&fontSize=90)
 
 ## Hi there 👋
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+
